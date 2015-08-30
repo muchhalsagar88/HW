@@ -155,3 +155,7 @@ git branch -f three C2
 
 ## Screenshot for completed levels
 ![Completed Levels](/images/HW0_levels.png)
+
+## Hooks
+This animation shows the post-commit hook for a git repository. The `post-commit` script opens the URL https://github.com/muchhalsagar88/HW/ in the browser
+![post-commit script demo](/images/HW0_demo.gif)
