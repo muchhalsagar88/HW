@@ -128,7 +128,7 @@ git commit
 
 ```
 git checkout bugFix
-git rebase mavter
+git rebase master
 git checkout side
 git rebase -i bugFix
 git checkout another
