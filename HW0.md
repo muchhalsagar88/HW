@@ -1,4 +1,4 @@
-	# Hoemwork 0 - HW0
+# Homework 0 - HW0
 
 ## Git Branching
 
