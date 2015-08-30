@@ -152,3 +152,6 @@ git checkout two
 git cherry-pick C5 C4' C3' C2'
 git branch -f three C2
 ```
+
+## Screenshot for completed levels
+![Completed Levels](/images/HW0_levels.png)
